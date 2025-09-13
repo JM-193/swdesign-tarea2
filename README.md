@@ -1,16 +1,17 @@
 # swdesign-tarea2
-Tarea 2, curso de Diseño de Software
 
-## Indicaciones de la Tarea
+## Información Personal
 
-[Aquí se pueden agregar las indicaciones específicas de la tarea asignada]
-
-## Respuesta a la Parte Escrita
-
-[Aquí se puede agregar la respuesta a la parte escrita de la tarea]
+* José Manuel Mora Z - C35280
+* Diseño de Software - CI-0136
+* Escuela de las Ciencias de la Computación e Informática (ECCI)
+* Universidad de Costa Rica (UCR)
 
 ## Estructura del Proyecto
 
 - `/python/` - Carpeta que contiene el código Python de la tarea
   - `Libro.py` - Archivo para la implementación de la clase Libro
   - `Biblioteca.py` - Archivo para la implementación de la clase Biblioteca
+
+## Respuestas
+
